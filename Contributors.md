@@ -1596,6 +1596,7 @@
 - [Rishikesh Jadhav](https://github.com/rishikeshjadhav)
 - [Nelson Almendra](https://github.com/nelsonalmendra)
 - [Akash Barve](https://github.com/AkashBarve)
+- [Javier Barrera] (https://github.com/javierb256)
 - [Ikeoha Chidi](https://github.com/ikeohachidi)
 - [Rikoudo Senin](https://github.com/rikoudosenin)
 - [Avanti Prasanna](https://github.com/avantiprasanna)
